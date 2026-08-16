@@ -22,16 +22,6 @@ O Ecologic PC incorporou sustentabilidade à concepção do casemod por meio do 
 
 O projeto dialoga com conceitos de economia circular e com o pilar ambiental do ESG ao incentivar maior aproveitamento de equipamentos e reflexão sobre descarte eletrônico. Não são declaradas reduções quantitativas de resíduos ou emissões, pois esses impactos não foram medidos.
 
-```mermaid
-flowchart TD
-    A[Ecologic PC] --> B[VirtualBox]
-    B --> C[Ambiente Windows]
-    B --> D[Ambiente Kali Linux]
-    C <--> E[Rede virtual isolada]
-    D <--> E
-    E --> F[Testes controlados]
-```
-
 ## Arquitetura virtualizada
 
 ![Arquitetura virtualizada genérica](assets/arquitetura-virtualizada.svg)
