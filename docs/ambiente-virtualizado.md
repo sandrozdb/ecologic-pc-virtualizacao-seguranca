@@ -1,6 +1,8 @@
 # Ambiente virtualizado
 
-O ambiente foi estruturado sobre um computador físico customizado, utilizado como hospedeiro do VirtualBox. Windows e Kali Linux compunham o laboratório virtual.
+O ambiente foi estruturado sobre um computador físico customizado, com gabinete construído em madeira e decoração inspirada em plantas. A máquina foi utilizada como hospedeira do VirtualBox, enquanto Windows e Kali Linux compunham o laboratório virtual.
+
+Além da função técnica, o casemod comunicava uma proposta de reaproveitamento, criatividade e consciência ambiental.
 
 Por não existirem registros das versões e parâmetros originais, esta documentação não atribui valores específicos. A representação preserva apenas os elementos confirmados do projeto.
 

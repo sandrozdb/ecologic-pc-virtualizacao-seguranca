@@ -2,19 +2,25 @@
 
 # Ecologic PC — Casemod com Virtualização e Segurança
 
-Projeto acadêmico que integrou reaproveitamento de hardware, virtualização, redes de computadores e práticas introdutórias de segurança em um ambiente controlado.
+Projeto acadêmico de casemod sustentável, com gabinete construído em madeira e decoração inspirada em plantas, que integrou reaproveitamento de hardware, virtualização, redes de computadores e segurança em ambiente controlado.
 
 ## Problema
 
-O estudo de infraestrutura, sistemas operacionais e segurança exige um ambiente em que configurações e testes possam ser realizados sem afetar máquinas ou redes externas.
+O estudo de infraestrutura, sistemas operacionais e segurança exige um ambiente em que configurações e testes possam ser realizados sem afetar máquinas ou redes externas. Ao mesmo tempo, equipamentos e componentes ainda funcionais podem ser descartados antes do fim de sua vida útil.
 
 ## Objetivo
 
-Construir um computador customizado e utilizá-lo como base para um laboratório virtualizado, permitindo experimentar sistemas operacionais, conectividade e administração de redes com isolamento.
+Construir um computador customizado com identidade ecológica e utilizá-lo como base para um laboratório virtualizado, unindo criatividade, reaproveitamento e experimentação técnica.
 
 ## Solução desenvolvida
 
-O computador físico recebeu o VirtualBox e ambientes Windows e Kali Linux. As máquinas virtuais formaram uma rede de testes controlada para exercícios de comunicação, configuração e observação do ambiente.
+O gabinete foi construído em madeira e recebeu decoração inspirada em plantas e natureza. O computador físico foi preparado com VirtualBox e ambientes Windows e Kali Linux, formando uma rede de testes controlada para exercícios de comunicação, configuração e observação.
+
+## Sustentabilidade e ESG
+
+O Ecologic PC incorporou sustentabilidade à concepção do casemod por meio do reaproveitamento de hardware e da escolha de uma estrutura customizada em madeira. A decoração com plantas reforçou visualmente a união entre tecnologia e consciência ambiental.
+
+O projeto dialoga com conceitos de economia circular e com o pilar ambiental do ESG ao incentivar maior aproveitamento de equipamentos e reflexão sobre descarte eletrônico. Não são declaradas reduções quantitativas de resíduos ou emissões, pois esses impactos não foram medidos.
 
 ```mermaid
 flowchart TD
@@ -35,6 +41,9 @@ O diagrama utiliza nomes e endereços fictícios. Ele explica o funcionamento co
 ## Atividades documentadas
 
 - montagem e organização de um computador customizado;
+- construção de gabinete em madeira;
+- criação de identidade visual inspirada em plantas e natureza;
+- reaproveitamento de hardware e extensão de sua utilização;
 - criação e gerenciamento de máquinas virtuais;
 - instalação e uso de Windows e Kali Linux;
 - configuração de uma rede virtual de laboratório;
@@ -51,6 +60,9 @@ O diagrama utiliza nomes e endereços fictícios. Ele explica o funcionamento co
 - redes TCP/IP
 - administração de sistemas
 - segurança da informação
+- sustentabilidade
+- economia circular
+- fundamentos de ESG
 
 Python e SQL não são atribuídos ao projeto, pois não há confirmação de uso.
 
@@ -88,7 +100,7 @@ O repositório não contém credenciais, endereços reais, exploração de siste
 
 ## Competências desenvolvidas
 
-Infraestrutura de TI, virtualização, redes, sistemas operacionais, documentação técnica, segurança da informação e resolução de problemas.
+Infraestrutura de TI, virtualização, redes, sistemas operacionais, documentação técnica, segurança da informação, sustentabilidade, criatividade e resolução de problemas.
 
 ## Autor
 
